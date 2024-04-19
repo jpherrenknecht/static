@@ -1,0 +1,1320 @@
+{
+
+    
+    "512.5" :
+    {"active" : "non",
+    "numero"  : "512" ,
+    "leg"     : "5",
+    "nom"     : "Globe40",
+    "bateau"  :"mono/class40-2021",
+    "exclusions":"/exclusions512.txt",
+    "moyenne" :10,
+    "marques" :{ "Depart":        {"lat":-17.76277        ,"lon":-149.6475},
+                 "Pacific Gate":  {"lat":-43.005758523447 ,"lon":-97.014308564961},                
+                 "Cabo de Hornos":{"lat":-55.952161514556 ,"lon":-67.272186469175},
+                 "Ushuia":        {"lat":-54.98535        ,"lon":-66.84245}
+                }  
+    },
+
+
+
+
+    "512.6" :
+    {"active" : "non",
+    "numero"  : "512" ,
+    "leg"     : "6",
+    "nom"     : "Ushuaia Recife",
+    "bateau"  :"mono/class40-2021",
+    "polar_id":3,
+    "exclusions":"/exclusions512.txt",
+    "moyenne" :10,
+    "marques" :{ "Uschuaia":        {"lat":-55.11486        ,"lon":-66.35974},
+                 "Recife":          {"lat":-8.079522,"lon":-34.86}              
+               
+                }  
+    },
+
+
+
+
+
+
+
+
+    "567.1" :
+    {
+     "active"  :"non",
+     "numero"  : "567" ,
+     "leg"     : "1",
+     "nom"     : "Jules Vernes",
+     "bateau"  :"multi/maxi_trimaran_x10percent",
+     "polar_id":9,
+     "exclusions":"/exclusions567.txt",
+     "moyenne" :15,
+     "marques" : { "Start":                      {"lat":49 ,"lon":-5} ,
+                   "F. de Noronha":        {"lat":-3 ,"lon":-32.01},
+                   "Atlantique sud "          :  {"lat":-30 ,"lon":-5}
+                    
+                    
+                } 
+    },
+
+    "568.1" :
+    {
+     "active"  :"non",
+     "numero"  : "568" ,
+     "leg"     : "1",
+     "nom"     : "Virtuel au reel",
+     "bateau"  :"mono/class40-2021",
+     "exclusions":"/exclusions568.txt",
+     "moyenne" :10,
+     "marques" : {"Le Havre start": {"lat": 49.49531, "lon": 0.05643613},
+                  "Needles": {"lat": 50.675354174347, "lon": -1.6525762774079}, 
+                  "Wolf Rock": {"lat": 50.066752412917, "lon": -5.7445894520523},
+                  "Fastnet": {"lat": 51.382817314739, "lon": -10.044227334875}, 
+                  "Sein": {"lat": 48.030805953141, "lon": -4.8363074014019},
+                  "Portsall": {"lat": 48.563276706976, "lon": -4.7280919567522},
+                  "Le Havre end": {"lat": 49.49062, "lon": 0.124929}
+                    
+                } 
+    },
+
+
+
+  
+
+
+    "569.1" :
+    {
+     "active"  :"non",
+     "numero"  : "569" ,
+     "leg"     : "1",
+     "nom"     : "Back to Saint Malo",
+     "bateau"  :"multi/maxi_trimaran_x10percent",
+     "exclusions":"/exclusions567.txt",
+     "moyenne" :15,
+     "marques" : { "Pointe a pitre":    {"lat":16.14465 ,"lon":-61.49332} ,
+                   "Saint Malo":        {"lat":48.64561 ,"lon":-2.014794}
+                    
+                    
+                } 
+    },
+
+
+    "570.1" :
+    {
+     "active"  :"non",
+     "numero"  : "570" ,
+     "leg"     : "1",
+     "nom"     : "Sydney Hobart",
+     "bateau"  :"mono/offshoreracer",
+     "exclusions":"/exclusions570.txt",
+     "moyenne" :12,
+     "marques" : { "Sydney":    {"lat": -33.8346, "lon": 151.297} ,
+                   "bouee":     {"lat": -43.239523, "lon": 148.00372}, 
+                   "Hobart":    {"lat": -42.98, "lon": 147.337}
+              
+                    
+                    
+                } 
+    },
+
+
+    "571.1" :
+    {
+     "active"  :"non",
+     "numero"  : "571" ,
+     "leg"     : "1",
+     "nom"     : "Leg Zero",
+     "bateau"  :"mono/imoca_60_foils",
+     "polar_id":4,
+     "exclusions":"/exclusions570.txt",
+     "moyenne" :12,
+     "marques" : { "Potsmouth":    {"lat":50.75721,"lon":-1.112389} ,
+                   "Alicante":     {"lat":38.3245,"lon":-0.4999015}                  
+                    
+                } 
+    },
+
+
+
+    "572.1" :
+    {
+     "active"  :"non",
+     "numero"  : "572" ,
+     "leg"     : "1",
+     "nom"     : "Leg Zero",
+     "bateau"  :"mono/imoca_60_foils",
+     "polar_id":4,
+     "exclusions":"/exclusions572.txt",
+     "moyenne" :12,
+     "marques" : { "Portsmouth":    {"lat":50.75721,"lon":-1.112389} ,
+                   "Alicante":     {"lat":38.3245,"lon":-0.4999015}                  
+                    
+                } 
+    },
+
+
+
+
+
+    "573.1" :
+    {
+     "active"  :"non",
+     "numero"  : "573" ,
+     "leg"     : "1",
+     "nom"     : "Imoca Alicante Mindelo",
+     "bateau"  :"mono/imoca_60_foils",
+     "polar_id":4,
+     "exclusions":"/exclusions572.txt",
+     "moyenne" :12,
+     "marques" : { "Alicante":    {"lat":38.342,"lon":-0.4037192} ,
+                   "Mindelo":     {"lat":16.88381,"lon":-24.99593} 
+    } 
+    },
+
+
+
+
+    "573.2" :
+    {
+     "active"  :"non",
+     "numero"  : "573" ,
+     "leg"     : "2",
+     "nom"     : "M. Cape Town",
+     "bateau"  :"mono/imoca_60_foils",
+     "polar_id":4,
+     "exclusions":"/exclusions572.txt",
+     "moyenne" :12,
+     "marques" : { 
+                   "Mindelo":        {"lat":16.90921,"lon":-25.11334} ,
+                   "F. de Noronha":  {"lat":-3.77 ,"lon":-32.35},
+                   "Atlantique sud": {"lat":-7 ,"lon":-18},
+                   "Atlantique sud2": {"lat":-20 ,"lon":-10},
+                   "Cape Town":      {"lat":-33.91008,"lon":18.44127} 
+    } 
+    },
+
+
+
+
+
+
+
+
+
+
+    "574.1" :
+    {
+     "active"  :"non",
+     "numero"  : "574" ,
+     "leg"     : "1",
+     "nom"     : "V0 65 Alicante Mindelo",
+     "bateau"  :"mono/vo65",
+     "polar_id":7,
+     "exclusions":"/exclusions570.txt",
+     "moyenne" :12,
+     "marques" : { "Alicante":    {"lat":38.342,"lon":-0.4037192} ,
+                   "Mindelo":     {"lat":16.88381,"lon":-24.99593} 
+    }
+   
+    },
+
+
+
+    
+    
+    "575.1" :
+    {
+     "active"  :"non",
+     "numero"  : "575" ,
+     "leg"     : "1",
+     "nom"     : "RORC Transat. Race",
+     "bateau"  : "multi/multi_50",
+     "polar_id":11,
+     "exclusions":"/exclusions572.txt",
+     
+     "moyenne" :15,
+     "marques" : { "Lanzarote":                  {"lat":28.82139       ,"lon":-13.82096} ,
+                  "Las Palmas":                  {"lat":28.854       ,"lon":-17.913} ,
+                    "Grenada":                   {"lat":11.9943       ,"lon":-61.80} 
+                }  
+    },
+
+
+
+
+
+    "585.1" :
+    {
+     "active"  :"non",
+     "numero"  : "585" ,
+     "leg"     : "1",
+     "nom"     : "Mini Transat",
+     "bateau"  : "mono/mini_6.50_v2",
+     "polar_id":5,
+     "exclusions":"/exclusions572.txt",
+     
+     "moyenne" :8,
+     "marques" : {  "Las Palmas":                  {"lat":28.854       ,"lon":-17.913} ,        
+                    "Grenada":                     {"lat":16.30       ,"lon":-61.25} 
+                }  
+    },
+
+
+
+
+
+
+
+
+    "586.2" :
+    {
+     "active"  :"non",
+     "numero"  : "586" ,
+     "leg"     : "1",
+     "nom"     : "Puru Leg ",
+     "bateau"  : "mono/mini_6.50_v2",
+     "polar_id": 5,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":true,
+     "moyenne" :8,
+     "marques" : { "Getxo":                  {"lat":43.37677 ,"lon":-3.069367} ,
+                  "Port Bourgenay":          {"lat":46.4791  ,"lon":-1.799863} 
+                  
+                }  
+    },
+
+
+    "592.1" :
+    {
+     "active"  :"non",
+     "numero"  : "592" ,
+     "leg"     : "1",
+     "nom"     : "Defi azimut ",
+     "bateau"  : "mono/imoca_60_foils",
+     "polar_id": 4,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":true,
+     "moyenne" :12,
+     "marques" : { "Start":          {"lat":47.688203,"lon":-3.529209},
+                   "Scilly":         {"lat":49.9630  ,"lon":-6.2644} ,
+                   "Side":           {"lat":51.3915  ,"lon":-10.0548} ,
+                   "Corum":          {"lat":46.3058  ,"lon":-7.9585} ,
+                   "Arrivee":        {"lat":47.685006,"lon":-3.387952}
+                                }  
+    },
+
+ 
+     
+    "593.1" :
+    {
+     "active"  :"non",
+     "numero"  : "592" ,
+     "leg"     : "1",
+     "nom"     : "Defi azimut ",
+     "bateau"  : "mono/imoca_60_foils",
+     "polar_id": 4,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":true,
+     "moyenne" :12,
+     "marques" : { "Start":          {"lat":47.688203,"lon":-3.529209},
+                   
+                   "Arrivee":        {"lat":47.685006,"lon":-3.387952}
+                  
+                }  
+    },
+
+
+    "594.1" :
+    {
+     "active"  :"non",
+     "numero"  : "594" ,
+     "leg"     : "1",
+     "nom"     : "Sydney Hobart",
+     "bateau"  :"mono/offshoreracer",
+     "exclusions":"/exclusions570.txt",
+     "fineWinds":true, 
+     "moyenne" :12,
+     "marques" : { "Sydney":    {"lat": -33.8346, "lon": 151.297} ,
+                  "Shouten island":    {"lat":-42.340887,"lon":148.347417},    
+                  "bouee":     {"lat": -43.239523, "lon": 148.00372}, 
+                   "Hobart":    {"lat": -42.98, "lon": 147.337}
+              
+                    
+                    
+                } 
+    },
+
+
+
+
+
+
+
+    "601.1" :
+    {
+     "active"  :"non",
+     "numero"  : "601" ,
+     "leg"     : "1",
+     "nom"     : "Solitaire du figaro 1/3 ",
+     "bateau"  : "mono/figaro3",
+     "polar_id": 2,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":true,
+     "moyenne" :8,
+     "marques" : { "Caen":                  {"lat":49.3527 ,"lon":-0.4055121} ,
+                  "Bouee Paprec ":          {"lat":49.543083  ,"lon":-0.536417} ,
+                  "Saint Marcouf":          {"lat":49.4904  ,"lon":-1.1562} ,
+                  "Nab Tower    ":          {"lat":50.667289  ,"lon":-0.952411} ,
+                  "Needles Fairway":        {"lat":50.635117  ,"lon":-1.676456} ,
+                  "Phare des Heaux":        {"lat":48.9067  ,"lon":-3.0848} ,
+                  "Check Point":            {"lat":49.9815   ,"lon":-6.2903} ,
+                  "Fastnet":                {"lat":51.388561  ,"lon":-9.605058} ,
+                  "pointe" :                {"lat":51.6015    ,"lon":-8.5313} ,
+                  "Kingsale":               {"lat":51.698439  ,"lon":-8.512650} 
+                }  
+    },
+
+    "601.2" :
+    {
+     "active"  :"non",
+     "numero"  : "601" ,
+     "leg"     : "2",
+     "nom"     : "Solitaire du figaro 2/3 ",
+     "bateau"  : "mono/figaro3",
+     "polar_id": 2,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":true,
+     "moyenne" :8,
+     "marques" : { "Depart":                  {"lat":51.6340  ,"lon":-8.4703} ,
+                  "Bouee Paprec ":            {"lat":51.3631  ,"lon":-8.2330} ,
+                  "Carnsore Point":           {"lat":52.1724  ,"lon":-6.3572} ,
+                  "Calf of man   ":           {"lat":54.0561  ,"lon":-4.8334} ,
+                  "Pointe Nord de Man ":      {"lat":54.4205  ,"lon":-4.3679} ,
+                  "Est ile de Man":           {"lat":54.2924  ,"lon":-4.3060} ,
+                  "West England":             {"lat":51.9038  ,"lon":-5.3162} ,
+                  "West England2":            {"lat":51.8600  ,"lon":-5.3210} ,
+                  "Lands End ":               {"lat":50.0636  ,"lon":-5.7174} ,
+                  "Roscoff" :                 {"lat":48.7528  ,"lon":-3.989} 
+                 
+                }  
+    },
+
+
+
+    "601.3" :
+    {
+     "active"  :"non",
+     "numero"  : "601" ,
+     "leg"     : "3",
+     "nom"     : "Solitaire du figaro 3/3 ",
+     "bateau"  : "mono/figaro3",
+     "polar_id": 2,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":true,
+     "moyenne" :8,
+     "marques" : { "Baie de Morlaix":         {"lat":48.7627  ,"lon":-3.9541} ,
+                  "Bouee Paprec ":            {"lat":48.9812  ,"lon":-4.6234} ,
+                  "Chaussée de Sein":         {"lat":48.0454  ,"lon":-4.8795} ,
+                  "Gijon   ":                 {"lat":43.6831  ,"lon":-5.6357} ,
+                  "Piriac sur mer ":          {"lat":47.277  ,"lon":-2.57222} 
+                }  
+    },
+
+
+
+
+
+
+    "608.1" :
+    {
+     "active"  :"non",
+     "numero"  : "608" ,
+     "leg"     : "1",
+     "nom"     : "JV Imoca ",
+     "bateau"  : "mono/imoca_60_foils",
+     "polar_id": 4,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":false,
+     "moyenne" :12,
+     "marques" : { "Le Havre start":   {"lat": 49.46726, "lon": 0.02072348},
+                  
+                   "Arrivee":          {"lat": 14.33     , "lon": -60.90  }
+                  
+                }  
+    },
+
+
+
+    "609.1" :
+    {
+     "active"  :"non",
+     "numero"  : "609" ,
+     "leg"     : "1",
+     "nom"     : "JV Ultim",
+     "bateau"  : "multi/maxi_trimaran",
+     "polar_id": 4,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds": false,
+     "moyenne" :12,
+     "marques" : {   "Le Havre start"       : {"lat": 49.46726     , "lon": 0.02072348},
+                     "Bouee 1"              : {"lat": 0.916422     , "lon": -29.34555 },
+                     "Ascencion island"     : {"lat":-7.95493      , "lon": -14.3439  },
+                     "Fort de France"       : {"lat": 14.33        , "lon": -60.90    }
+                }  
+    },
+
+
+
+
+    "610.1" :
+    {
+     "active"  :"non",
+     "numero"  : "610" ,
+     "leg"     : "1",
+     "nom"     : "JV multi 50",
+     "bateau"  :"multi/multi_50",
+     "polar_id": 4,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":false,
+     "moyenne" :12,
+     "marques" : {   "Le Havre start":   {"lat": 49.46726, "lon": 0.02072348},
+                     "Bouee 1":          {"lat": 49.46726, "lon": 0.02072348},
+                     "Ascencion island": {"lat": 1.0     , "lon": -29.33    },
+                     "Arrivee": {"lat": 14.33     , "lon": -60.90  }
+                }  
+    },
+
+
+    "611.1" :
+    {
+     "active"  :"non",
+     "numero"  : "611" ,
+     "leg"     : "1",
+     "nom"     : "JV Class40",
+     "bateau"  : "mono/class40-2021",
+     "polar_id": 4,
+     "exclusions":"/exclusions572.txt",    
+     "fineWinds":false,
+     "moyenne" :12,
+     "marques" : {   "Le Havre start":   {"lat": 49.46726, "lon": 0.02072348},
+                     "Bouee 1":          {"lat": 49.46726, "lon": 0.02072348},
+                     "Ascencion island": {"lat": 1.0     , "lon": -29.33    },
+                     "Arrivee": {"lat": 14.33     , "lon": -60.90  }
+                }  
+    },
+
+
+
+
+
+    "613.1" :
+    {
+     "active"  :"non",
+     "numero"  : "613" ,
+     "leg"     : "1",
+     "nom"     : "JV le retour ",
+     "bateau"  : "mono/imoca_60_foils",
+     "polar_id": 4,
+     "exclusions":"/exclusions613.txt",    
+     "fineWinds":true,
+     "moyenne" :12,
+     "marques" : {                   
+                   "Depart":          {"lat": 14.33     , "lon": -60.90  },
+                   "Lorient":  {"lat":47.699932,"lon":-3.499541}
+                }  
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "614.1" :
+    {
+     "active"  :"non",
+     "numero"  : "614" ,
+     "leg"     : "1",
+     "nom"     : "Paprec Saint Tropez",
+     "bateau"  : "mono/class40-2021",
+     "polar_id": 3,
+     "exclusions":"/exclusions572.txt",
+     
+     "moyenne" :10,
+     "marques" : { "Depart saint Trop":         {"lat":43.306        ,"lon":6.759} ,
+                   "Pointe 1":                  {"lat":43.190        ,"lon":6.690} ,
+                   "Pointe 2":                  {"lat":43.017        ,"lon":6.338} ,
+                   "Pointe 3":                  {"lat":41.356        ,"lon":9.2302} ,
+                   "Isola di Gianutri":         {"lat":42.238        ,"lon":11.128} ,
+                   "Ile Toscane":               {"lat":42.863        ,"lon":10.446} ,
+                   "Isola Gallinara":           {"lat":44.013        ,"lon":8.219} ,
+                   "Retour ":                   {"lat":43.949         ,"lon":8.178} 
+
+                  
+                } 
+     } ,
+
+
+      "605.1" :
+      {
+      "active"  :"non",
+      "numero"  : "605" ,
+      "leg"     : "1",
+      "nom"     : "Normandy Channel race",
+      "bateau"  : "mono/class40-2021",
+      "polar_id": 3,
+      "exclusions":"/exclusions572.txt",
+      "moyenne" :10,
+      "marques" : { "Depart caen " :         {"lat": 49.338              ,"lon":-0.31417587} ,
+                    "Saint Marcouf":         {"lat": 49.493056           ,"lon":-1.152906} ,
+                    "East Wight   ":         {"lat": 50.684328           ,"lon":-1.068583} ,
+                    "Sortie Wight ":         {"lat": 50.665              ,"lon":-1.641} ,
+                    "Lizard       ":         {"lat": 49.953              ,"lon":-5.206} ,
+                    "PorthGwarra"  :         {"lat": 50.033528           ,"lon":-5.679097} ,
+                    "Rosslare "    :         {"lat": 52.224525           ,"lon":-6.177972} ,
+                    "Fastnet "     :         {"lat": 51.310844           ,"lon":-9.836228} ,
+                    "Guernesey "   :         {"lat": 49.417467           ,"lon":-2.539914} ,
+                    "La Hague  "   :         {"lat": 49.724836           ,"lon":-1.939919} ,   
+                     "Arrivee Caen":         {"lat": 49.28063            ,"lon":-0.2377319} 
+                  }  
+
+
+    },
+
+
+    "616.1" :
+    {
+     "active"  :"non",
+     "numero"  : "616" ,
+     "leg"     : "1",
+     "nom"     : "Eskipper",
+     "bateau"  :"multi/maxi_trimaran",
+     "polar_id":6,
+     "exclusions":"/exclusions560.txt",
+     
+     "moyenne" :15,
+     "marques" : { "New York":                      {"lat":40.43943 ,"lon":-73.92772} ,
+                   "Milieu ligne":                    {"lat":49.4038 ,"lon":-4.5813}
+              
+                } 
+    },
+
+
+    "618.1" :
+    {
+     "active"  :"non",
+     "numero"  : "618" ,
+     "leg"     : "1",
+     "nom"     : "Les Sables Horta",
+     "bateau"  :"mono/class40-2021",
+     "polar_id":6,
+     "exclusions":"/exclusions560.txt",
+     
+     "moyenne" :15,
+     "marques" : { "Les Sables":               {"lat":46.133 ,"lon":-1.9009} ,
+                   "Horta":                    {"lat":38.69587 ,"lon":-28.59774}
+              
+                } 
+    },
+
+
+
+    "620.1" :
+    {
+     "active"  :"non",
+     "numero"  : "620" ,
+     "leg"     : "1",
+     "nom"     : "NewFoundland",
+     "bateau"  :"Caravel",
+     "polar_id":13,
+     "exclusions":"/exclusions560.txt",
+     
+     "moyenne" :5,
+     "marques" : {  "Saint Malo":        {"lat":48.64561 ,"lon":-2.014794},
+      
+     
+                   "Quebec":                    {"lat":51.75 ,"lon":-55.80}
+              
+                } 
+    },
+
+
+    "624.1" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "1",
+     "nom"     : "Wes4",
+     "bateau"  :"mono/figaro3",
+     "polar_id":2,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  "San Carlo":      {"lat":27.935050,"lon":-111.013667},
+                      "Gate 1":       {"lat":25.834506,"lon":-111.233770},
+                      "Gate 2" :      {"lat":25.713813,"lon":-110.772429},
+                      "Santa cruz ":  {"lat":25.273819,"lon":-110.736178},
+                      "San Jose    " :{"lat":25.000620,"lon":-110.565777},
+                      "Arrivee"  :    {"lat":24.234681,"lon":-110.388094}
+                } 
+    },
+
+
+    "624.5" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "5",
+     "nom"     : "Wes4",
+     "bateau"  :"mono/Happy",
+     "polar_id":10,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+                  "Barra"  :      {"lat":13.4925,"lon":-16.5492},
+                  "Terre 0":      {"lat":13.448346,"lon":-16.779028}, 
+                  "Terre 1":      {"lat":12.453488,"lon":-16.790602},   
+                  "Terre 2":      {"lat":11.850755,"lon":-16.333693}, 
+                  "Terre3" :      {"lat":11.731111,"lon":-15.956038},        
+                  "Arrivee"  :    {"lat":11.788923,"lon":-15.590056}
+                } 
+    },
+
+
+    "624.6" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "6",
+     "nom"     : "Wes6",
+     "bateau"  :"multi/multi_50",
+     "polar_id":10,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+                  "Douala"  :      {"lat":3.92195,"lon":9.5776},
+                  "Pointe1" :      {"lat":3.789379,"lon":8.713742}, 
+                  "Mer1":         {"lat":3.564193,"lon":8.337575},   
+                  "Terre 2":      {"lat":3.259732,"lon":8.441184}, 
+                  "Arrivee" :     {"lat":1.901588,"lon":9.741214}        
+                 
+                } 
+    },
+
+
+    "624.7" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "7",
+     "nom"     : "Wes7",
+     "bateau"  :"mono/class40-2021",
+     "polar_id":10,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+                  "Ponta do sol"  :  {"lat":16.228733,"lon":-22.921061},
+                  "Tarafal" :        {"lat":15.303087,"lon":-23.774249}, 
+                  "Porto rincao":    {"lat":15.070684,"lon":-23.782444},   
+                  "Arrivee" :        {"lat":14.874586,"lon":-23.562181}        
+                 
+                } 
+    },
+
+
+    "624.8" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "8",
+     "nom"     : "Wes8",
+     "bateau"  :"mono/class40-2021",
+     "polar_id":10,
+     "exclusions":"/exclusions624.txt",
+     "fineWinds":true, 
+     "moyenne" :5,
+     "marques" : {  
+                  "Mabana"  :  {"lat":-1.4762,"lon":5.6119},
+                  "Sao Tome" :       {"lat":0.213403,"lon":6.749763}, 
+                  "Bela Vista" :        {"lat":1.6503,"lon":7.4370}   
+                 
+                } 
+    },
+
+
+
+    "624.9" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "9",
+     "nom"     : "Wes9",
+     "bateau"  :"mono/figaro3",
+     "polar_id":2,
+     "exclusions":"/exclusions624.txt",
+     "fineWinds":true, 
+     "moyenne" :5,
+     "marques" : {  
+                  "Dalian"   :  {"lat":39.3106,"lon":121.6438},
+                  "Pointe 1" :     {"lat":38.921713,"lon":121.085911}, 
+                  "Pointe 2" :   {"lat":38.724327,"lon":121.131514},   
+                  "Incheon ile "  :   {"lat":37.381801,"lon":126.588116},
+                  "Arrivee2":       {"lat":37.369545,"lon":126.591182},  
+                  "Arrivee3":       {"lat":37.362722,"lon":126.415388}
+               } 
+    },
+
+
+
+    "624.10" :
+    {
+     "active"  :"non",
+     "numero"  : "624" ,
+     "leg"     : "10",
+     "nom"     : "Wes10",
+     "bateau"  :"mono/Happy",
+     "polar_id":2,
+     "exclusions":"/exclusions624.txt",
+     "fineWinds":true, 
+     "moyenne" :5,
+     "marques" : {  
+                  "Depart"   : {"lat":36.049944,"lon":129.453620},
+                  "Pointe 1" :  {"lat":36.086618,"lon":129.546355}, 
+                  "Pointe 2" :   {"lat":36.079831,"lon":129.572743},   
+                  "Pointe 3"  : {"lat":33.177137,"lon":129.331982},
+                  "ile1   "  :{"lat":33.640926,"lon":129.545139},
+                  "Detroit   "  :{"lat":33.010974,"lon":129.465488},
+                  "Arrivee1":   {"lat":32.908414,"lon":129.564373},
+                  "Arrivee2":     {"lat":32.737038,"lon":129.772427}
+               } 
+    },
+
+
+
+    "630.1" :
+    {
+     "active"  :"oui",
+     "numero"  : "630" ,
+     "leg"     : "1",
+     "nom"     : "Arkea Ultime",
+     "bateau"  : "Ultim BP XI",
+     "polar_id":21,
+     "exclusions":"/exclusions6301.txt",
+     "fineWinds":true, 
+     "moyenne" :12,
+     "marques" : {  
+                     "Depart" : {"lat":0.2039,"lon":-45.436},
+
+                     "Point 1 " :           {"lat":-41.338011,"lon":75.055657},
+                     "Point 2" :           {"lat":-41.403969,"lon":116.452142},
+                     "Point 3" :           {"lat":-55.282325,"lon":166.083014},
+                     "Point 4" :           {"lat":-58.282325,"lon":-150.083014},
+
+                     "Point 5" :           {"lat":-57.872185,"lon":-65.866948},
+                     "Point 6" :           {"lat":-12.690650,"lon":-25.700933},
+                     "Point 7" :           {"lat":37.350770,"lon":-33.782278},
+                     "Arrivee ":           {"lat":47.500725,"lon":-6.008840}
+               
+               } 
+    },
+
+
+    "633.1" :
+    {
+     "active"  :"non",
+     "numero"  : "633" ,
+     "leg"     : "1",
+     "nom"     : "Christmas race",
+     "bateau"  :"multi/multi_50",
+     "polar_id":10,
+     "exclusions":"/exclusions624.txt",
+     "fineWinds":true, 
+     "moyenne" :12,
+     "marques" : {  
+                     "Christmas Island" : {"lat":-10.509229,"lon":105.707857},
+                     "Checkpoint line 1": {"lat":-10.593315,"lon":142.546868},
+                     "Arrivee":           {"lat":-21.478292,"lon":149.893664}
+               
+               } 
+    },
+
+
+
+
+
+
+    "634.1" :
+    {
+     "active"  :"non",
+     "numero"  : "634" ,
+     "leg"     : "1",
+     "nom"     : "Chloe expedition",
+     "bateau"  :"mono/super_maxi_100",
+     "polar_id":14,
+     "exclusions":"/exclusions624.txt",
+     "fineWinds":true, 
+     "moyenne" :12,
+     "marques" : {  
+                  "Panama"   :{"lat":8.577551,"lon":-79.432193},
+                  "Bouee 1" : {"lat":0.046,"lon":-91.695}, 
+                  
+                  "Arrivee1":   {"lat":-43.514795,"lon":-73.712030},
+                  "Arrivee2":  {"lat":-41.605276,"lon":-72.888055}
+               } 
+    },
+
+
+
+    "635.1" :
+    {
+     "active"  :"non",
+     "numero"  : "635" ,
+     "leg"     : "1",
+     "nom"     : "Rorc Transatlantique",
+     "bateau"  : "mono/offshoreracer",
+     "polar_id":11,
+     "exclusions":"/exclusions572.txt",
+     "fineWinds":true, 
+     "moyenne" :15,
+     "marques" : { "Lanzarote":                  {"lat":28.82139       ,"lon":-13.82096} ,
+                   "14 jours":                   {"lat":17.691394,"lon":-53.953168},
+                   "pointe":                   {"lat":11.9789     ,"lon":-61.6724},
+                    "Grenada":                   {"lat":11.9943       ,"lon":-61.80} 
+                }  
+    },
+
+
+
+    "638.1" :
+    {
+     "active"  :"non",
+     "numero"  : "638" ,
+     "leg"     : "1",
+     "nom"     : "Tour Bretagne",
+     "bateau"  : "mono/offshoreracer",
+     "polar_id":11,
+     "exclusions":"/exclusions572.txt",
+     "fineWinds":true, 
+     "moyenne" :15,
+     "marques" : {"Depart":                  {"lat":48.638709,"lon":-2.205283},
+                  "Jersey":                  {"lat":49.217698,"lon":-2.015326},
+                  "7 iles":                  {"lat":48.872330,"lon":-3.488975},
+                  "Ushant":                  {"lat":48.465447,"lon":-5.154292},
+                  "Sein":                    {"lat":48.028675,"lon":-4.752127},
+                  "Pointe de Kervily":       {"lat":47.782132,"lon":-4.397818},
+
+                  "Moutons":                 {"lat":47.7796,"lon":-4.0292},
+                  
+                  "Groix":                   {"lat":47.649518,"lon":-3.451946},
+                  "Belle Ile ":              {"lat":47.303901,"lon":-3.255243},
+                  "Pointe de keul" :         {"lat":47.277354,"lon":-3.072595},
+                  "Kerdonis":                {"lat":47.305047,"lon":-3.053267},
+                  "Er Yoch" :                {"lat":47.366506,"lon":-2.941391},
+                  "La trinite":              {"lat":47.571500,"lon":-3.014360}
+
+
+                }  
+    },
+
+
+
+
+
+    "639.1" :
+    {
+     "active"  :"non",
+     "numero"  : "639" ,
+     "leg"     : "1",
+     "nom"     : "Transcarribean",
+     "bateau"  : "multi_50",
+     "polar_id":11,
+     "exclusions":"/exclusions572.txt",
+     "fineWinds":true, 
+     "moyenne" :15,
+     "marques" : {"Depart":                     {"lat":18.482155,"lon":-77.969659},   
+                  "Pointe1":                    {"lat":18.463199,"lon":-78.215000},
+                  "Pointe2":                    {"lat":18.257786,"lon":-78.372984},   
+                  "Portland point":             {"lat":17.700702,"lon":-77.173410},
+                  "Isla de Mona":               {"lat":18.062393,"lon":-67.829566}, 
+                  "Side":                       {"lat":18.391175,"lon":-67.482781}, 
+                  "Puerto diablo"    :          {"lat":18.271854,"lon":-65.355084},  
+                  "Antigua and barbuda":        {"lat":16.930717,"lon":-62.343448},  
+                  "Antigua":                    {"lat":16.994521,"lon":-61.803476}
+                 
+
+
+                }  
+    },
+
+
+
+
+
+
+
+    "642.1" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "1",
+     "nom"     : "Wes1",
+     "bateau"  :"mono/Happy",
+     "polar_id":10,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+
+     "Puerto Montt"        :   { "lat":-41.48511 ,"lon":-72.93066 },
+     "Puerto Gaviotalat"   :   { "lat": -44.91132,"lon":-73.28815 }
+                 
+                } 
+    },
+
+
+
+
+    "642.2" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "2",
+     "nom"     : "Wes2",
+     "bateau"  :"mono/offshoreracer",
+     "polar_id":7,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+
+     "isla Parker":   {"lat":-52.7068,"lon":-74.1625},
+     "Punta arenas":             {"lat":-53.872895584403,"lon":-70.87815077656}
+                 
+                } 
+    },
+
+
+    "642.4" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "4",
+     "nom"     : "Wes4",
+     "bateau"  :"Tara",
+     "polar_id":16,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+
+     "isla Parker":   {"lat":-54.028670,"lon":-67.328283},
+     "Pointe":          {"lat":-54.647865,"lon":-65.121024},   
+     "Cap Horn " :     {"lat":-55.974631,"lon":-67.232148}       
+                } 
+    },
+
+
+
+    "642.5" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "5",
+     "nom"     : "Wes5",
+     "bateau"  :"vo65",
+     "polar_id":16,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+
+     "Belize City":   {"lat":17.437,"lon":-88.2183},
+     "Pointe":         {"lat":17.529823,"lon":-88.110523},   
+     "Sortie":       {"lat":17.83,"lon":-88.01},  
+     "Cancun" :      {"lat":21.138235,"lon":-86.735649}       
+                } 
+    },
+
+
+    "642.6" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "6",
+     "nom"     : "Wes5",
+     "bateau"  :"figaro3",
+     "polar_id":2,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :5,
+     "marques" : {  
+
+     "Depart":       {"lat":18.261179,"lon":-94.456343},
+     "Bouee 1":      {"lat":18.962046,"lon":-94.179585},     
+     "Bouee 2":      {"lat":19.566281,"lon":-95.568766},
+     "Arrivee" :     {"lat":19.159763,"lon":-95.997813}    
+                } 
+    },
+
+
+    "642.7" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "7",
+     "nom"     : "Wes7",
+     "bateau"  :"cruiserracer",
+     "polar_id":20,
+     "exclusions":"/exclusions6427.txt",
+     "fineWinds":true,
+     "moyenne" :7,
+     "marques" : {  
+
+     "Depart":     {"lat":14.124760,"lon":-91.731777},  
+     "Bouee 1":      {"lat":12.601507,"lon":-88.817271},
+     "Arrivee" :     {"lat":13.420376,"lon":-89.273204}
+                } 
+    },
+
+
+    "642.8" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "8",
+     "nom"     : "Wes8",
+     "bateau"  :"vo65",
+     "polar_id":7,
+     "exclusions":"/exclusions6427.txt",
+     "fineWinds":true,
+     "moyenne" :7,
+     "marques" : {  
+
+     "Depart":       {"lat":8.261947,"lon":-82.457765},
+     "ile":          {"lat":7.480720,"lon":-81.879148},
+     "Bouee 1":      {"lat":7.312530,"lon":-81.635389},
+     "ile2"   :      {"lat":7.190118,"lon":-80.882460},
+     "Bouee 2":      {"lat":7.454364,"lon":-79.981581},
+     "Arrivee" :     {"lat":8.886992,"lon":-79.545858}
+                } 
+    },
+
+
+
+
+
+    "642.9" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "9",
+     "nom"     : "Wes9",
+     "bateau"  :"multi_50",
+     "polar_id":11,
+     "exclusions":"/rien.txt",
+     "fineWinds":true,
+     "moyenne" :10,
+     "marques" : {  
+
+     "Depart":       {"lat":19.858572,"lon":-77.273253},
+     "Bouee 1":      {"lat":18.260782,"lon":-78.371446},
+     "Bouee 2":      {"lat":17.702729,"lon":-77.156264},
+     "Arrivee" :     {"lat":17.918913,"lon":-76.852465}
+                } 
+    },
+
+
+
+    "642.10" :
+    {
+     "active"  :"non",
+     "numero"  : "642" ,
+     "leg"     : "10",
+     "nom"     : "Wes10",
+     "bateau"  :"offshoreracer",
+     "polar_id":18,
+     "exclusions":"/rien.txt",
+     "fineWinds":true,
+     "moyenne" :12,
+     "marques" : {  
+
+     "Depart":       {"lat":18.407031,"lon":-69.875841}, 
+     "Arrivee" :     {"lat":17.964201,"lon":-66.658805}
+                } 
+    },
+
+
+
+
+    "642.11" :
+    {
+     "active"  :"oui",
+     "numero"  : "642" ,
+     "leg"     : "11",
+     "nom"     : "Wes11",
+     "bateau"  :"class40-2021",
+     "polar_id":3,
+     "exclusions":"/rien.txt",
+     "fineWinds":true,
+     "moyenne" :12,
+     "marques" : {  
+
+     "Depart":       {"lat":15.353006,"lon":-61.429094}, 
+     "saint Vincent ":  {"lat":13.194237,"lon":-61.280748},
+     "Bouee1 "       :{"lat":13.038423,"lon":-61.195604},
+     "Arrivee" :     {"lat":12.120923,"lon":-61.600649}
+                } 
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "643.1" :
+    {
+     "active"  :"non",
+     "numero"  : "643" ,
+     "leg"     : "1",
+     "nom"     : "Rorc Carribean",
+     "bateau"  :"offshoreracer",
+     "polar_id":18,
+     "exclusions":"/exclusions560.txt",
+     "fineWinds":true,
+     "moyenne" :8,
+     "marques" : {  
+      "Depart"                :{"lat":16.986782,"lon":-61.776167},
+      "Antigua est"           :{"lat":17.067550,"lon":-61.654599},
+      "Bouee 2"               :{"lat":17.565020,"lon":-61.987104},
+      "nevis"                 :{"lat":17.1024,"lon":-62.5513},
+      "saba"                  :{"lat":17.618144,"lon":-63.259565},
+      "saint barth"           :{"lat":17.893030,"lon":-62.788355},
+      "Pointe aux cannoniers" :{"lat":18.059409,"lon":-63.153151},
+      "Ance Marcel"           :{"lat":18.123621,"lon":-63.018213},
+      "nevis 2"               :{"lat":17.908584,"lon":-62.785161},
+      "Montserrat"            :{"lat":16.7243,"lon":-62.2465},
+      "grand ilet"            :{"lat":15.828118,"lon":-61.585764},
+
+      "La desirade"           :{"lat":16.333385,"lon":-60.997436},
+      "Bouee 11"              :{"lat":17.546988,"lon":-61.948799},
+      "Bouee 12"              :{"lat":16.931051,"lon":-62.349688},
+      "Arrivee"               :{"lat":17.002789,"lon":-61.790598}
+               }
+      }   , 
+
+
+
+
+      "649.1" :
+      {
+       "active"  :"oui",
+       "numero"  : "649" ,
+       "leg"     : "1",
+       "nom"     : "Reverse Odissey",
+       "bateau"  : "super_maxi_100",
+       "polar_id":14,
+       "exclusions":"/exclusions6301.txt",
+       "fineWinds":true, 
+       "moyenne" :12,
+       "marques" : {  
+                       "Depart" : {"lat":48.296832,"lon":-4.646368},
+                       "point 0":      {"lat":44.160114,"lon":-26.249824},
+                       "Point 1 " :       {"lat":-3.958061,"lon":-32.635632},
+                       "Point 2" :           {"lat":-41.403969,"lon":116.452142},
+                       "Point 3" :           {"lat":-55.282325,"lon":166.083014},
+                       "Point 4" :           {"lat":-58.282325,"lon":-150.083014},
+  
+                       "Point 5" :           {"lat":-57.872185,"lon":-65.866948},
+                       "Point 6" :           {"lat":-12.690650,"lon":-25.700933},
+                       "Point 7" :           {"lat":37.350770,"lon":-33.782278},
+                       "Arrivee ":          {"lat":48.296832,"lon":-4.646368}                 
+                 } 
+      },
+
+
+      "656.1" :
+      {
+       "active"  :"oui",
+       "numero"  : "656" ,
+       "leg"     : "1",
+       "nom"     : "NIJI 40",
+       "bateau"  : "class40-2021",
+       "polar_id":3,
+       "exclusions":"/exclusions6301.txt",
+       "fineWinds":true, 
+       "moyenne" :5,
+       "marques" : {  
+                       "Depart" :  {"lat":47.317798,"lon":-3.314530},
+                       
+                       "Arrivee ":       {"lat":15.9111,"lon":-61.1932}                 
+                 } 
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      "661.1" :
+      {
+       "active"  : "non",
+       "numero"  : "661" ,
+       "leg"     : "1",
+       "nom"     : "Saint Patrick",
+       "bateau"  : "multi_50",
+       "polar_id":11,
+       "exclusions":"/exclusions660.txt",
+       "fineWinds":true,
+       "moyenne" :8,
+       "marques" : {  
+         "Depart"                : {"lat":54.269443,"lon":-4.747660},
+         "Rosslare harbour    "  : {"lat":52.238667,"lon":-6.303605},          
+         "Pointe sud ouest "     : {"lat":51.444609,"lon":-9.817311},
+         "Trefle 1 "             : {"lat":56.6864,"lon":-11.9339},
+         "Bouee 1 "             : {"lat":56.9060,"lon":-11.8762},
+         "Trefle Nord "          : {"lat":57.0572,"lon":-11.3873},
+         "Bouee Nord "          : {"lat":57.0265,"lon":-11.1278},
+         "Trefle Est "           : {"lat":56.8187,"lon":-10.8308},
+         "Porte arrivee"         : {"lat":56.6789,"lon":-10.8524},
+         "Porte arrivee2"         : {"lat":56.5580,"lon":-10.9633},
+         "Arrivee"               : {"lat":56.7363,"lon":-11.2486}
+                  }
+        }    
+  
+
+
+
+
+
+   }      
+
+
+

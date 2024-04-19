@@ -1,0 +1,175 @@
+{"_id": {"race_id": 568, "num": 1}, 
+"lastUpdate": 1669031688833, 
+"name": "Du virtuel au réel, la qualif", 
+"displayOrder": 10, "priceLevel": 5, "freeCredits": 800, "optionPrices": {"skin": 500, "reach": 680, "foil": 880, "hull": 280, "heavy": 480, "radio": 120, "winch": 400, "light": 600},
+ "pilotBoatCredits": 400, "status": "opened", "estimatedTime": 10, "estimatedLength": 1150, "schedule": "validated", "open": {"date": 1669645087456}, "close": {"date": 1672531140000}, 
+ "start": {"lat": 49.49531, "lon": 0.05643613, "name": "Le Havre - Normandie", "date": 1671192120000, "heading": 349, "countryCode": "FRA", "countryFlag": "FR"}, 
+ "end": {"lat": 49.49062, "lon": 0.124929, "name": "Le Havre - Normandie", "date": 1672268340000, "radius": 2, "countryCode": "FRA", "countryFlag": "FR"},
+  "course": [{"lat": 49.4953, "lon": 0.0564361}, {"lat": 50.098, "lon": -0.104072}, {"lat": 50.317, "lon": -0.900581}, {"lat": 50.5163, "lon": -1.54237},
+   {"lat": 50.6554, "lon": -1.60171},
+    {"lat": 50.7493, "lon": -1.63964},
+     {"lat": 50.6732, "lon": -1.7191},
+      {"lat": 49.676, "lon": -2.81707},
+       {"lat": 49.7614, "lon": -4.69746}, 
+       {"lat": 49.822, "lon": -5.66564}, 
+       {"lat": 50.0649, "lon": -5.73275},
+        {"lat": 50.34, "lon": -5.80183},
+         {"lat": 50.4263, "lon": -7.41518}, 
+         {"lat": 50.5049, "lon": -9.07543}, 
+         {"lat": 51.3999, "lon": -9.81284}, 
+         {"lat": 51.5878, "lon": -9.97345},
+          {"lat": 51.5284, "lon": -10.1677}, 
+          {"lat": 51.3891, "lon": -10.5744}, 
+          {"lat": 49.7394, "lon": -9.5418}, 
+          {"lat": 46.7697, "lon": -7.54688}, 
+          {"lat": 47.9096, "lon": -4.95457}, 
+          {"lat": 48.0831, "lon": -4.5986}, 
+          {"lat": 48.3498, "lon": -4.81393},
+           {"lat": 49.2559, "lon": -5.52193}, 
+           {"lat": 49.8097, "lon": -3.03702},
+           {"lat": 50.2606, "lon": -1.3322}, 
+           {"lat": 49.7209, "lon": -0.527593},
+            {"lat": 49.4559, "lon": -0.0987675},
+             {"lat": 49.4851, "lon": 0.0746258}],
+              "checkpoints":
+              [{"id": 1, "group": 1, "name": "Needles", "start": {"lat": 50.675354174347, "lon": -1.6525762774079}, "end": {"lat": 50.731144121857, "lon": -1.6439180748571}, "engine": True, "display": "buoy", "side": "port"}, 
+              {"id": 2, "group": 2, "name": "Wolf Rock", "start": {"lat": 50.066752412917, "lon": -5.7445894520523}, "end": {"lat": 50.06658075154, "lon": -5.714650169414}, "engine": True, "display": "buoy", "side": "port"}, 
+              {"id": 3, "group": 3, "name": "Fastnet", "start": {"lat": 51.382817314739, "lon": -10.044227334875}, "end": {"lat": 51.580227898235, "lon": -10.233381959178}, "engine": True, "display": "buoy", "side": "port"}, 
+              {"id": 4, "group": 4, "name": "Sein", "start": {"lat": 48.030805953141, "lon": -4.8363074014019}, "end": {"lat": 48.04041899025, "lon": -4.7407044351018}, "engine": True, "display": "buoy", "side": "port"},
+               {"id": 5, "group": 5, "name": "Portsall", "start": {"lat": 48.563276706976, "lon": -4.7280919567522}, "end": {"lat": 49.956539801718, "lon": -5.2161449088683}, "engine": True, "display": "buoy", "side": "stbd"}],
+               
+               
+               "ice_limits": {"north": [], "south": [{"lat": -90.0, "lon": -180.0}, {"lat": -90.0, "lon": -90.0}, {"lat": -90.0, "lon": 0.0}, {"lat": -90.0, "lon": 90.0}, {"lat": -90.0, "lon": 180.0}],
+                "maxLat": 90.0, "minLat": -90.0}, "defaultMapPreset": "default", "mapPresets": ["default", "satellite", "vro1", "old", "imray", "navionics"], 
+                "race": {"name": "Du virtuel au réel, la qualif", "type": "leg", "realRaceTag": None}, 
+                "boat": {"name": "Class 40", "label": "Class 40", "polar_id": 3, "assetBundle": "class40", "stats": {"length": 12.19, "downwindSails": 115.0, "weight": 4500.0, "width": 4.5, "airDraught": 19.0, "draught": 3.0, "upwindSails": 115.0}, "type": "class40", "defaultSkin": "class40_VR_grey"}, "syncAWS": "Yes", "specialIcons": None, "vsrLevel": 0, "hasCode": True, "sponsorLogo": None, "sponsorURL": None}
+
+
+
+
+{"_id": {"race_id": 567, "num": 1}, "lastUpdate": 1667399831205, "name": "Jules Verne Trophy", "displayOrder": 10, "priceLevel": 1, "freeCredits": 2400, "optionPrices": {"hull": 840, "foil": 2640, "reach": 2040, "heavy": 1440, "radio": 360, "light": 1800, "skin": 1500, "winch": 1200}, "pilotBoatCredits": None, "status": "started", "estimatedTime": 41, "estimatedLength": 21800, "schedule": "dontshow", "open": {"date": 1667926804888}, "close": {"date": 1679612340000}, "start": {"lat": 48.50317, "lon": -5.103307, "name": "Ouessant", "date": 1667926800000, "heading": 246, "countryCode": "FRA", "countryFlag": "FR"}, "end": {"lat": 48.3753, "lon": -4.46093, "name": "Brest", "date": 1679180340000, "radius": 0, "countryCode": "FRA", "countryFlag": "FR"}, "course": [{"lat": 48.5032, "lon": -5.10331}, {"lat": 41.3012, "lon": -29.6968}, {"lat": -0.826049, "lon": -27.7797}, {"lat": -34.7232, "lon": -26.5875}, {"lat": -50.1637, "lon": 35.4251}, {"lat": -54.8423, "lon": 58.9554}, {"lat": -57.9336, "lon": 115.093}, {"lat": -60.6359, "lon": 155.819}, {"lat": -60.3494, "lon": -170.18}, {"lat": -59.712, "lon": -84.3802}, {"lat": -56.0667, "lon": -66.3874}, {"lat": -44.6055, "lon": -20.8137}, {"lat": 0.703528, "lon": -29.4247}, {"lat": 42.2341, "lon": -35.7864}, {"lat": 49.4594, "lon": -5.15517}], "checkpoints": [{"id": 7, "group": 1, "name": "Biscay", "start": {"lat": 43.054789, "lon": -9.3006874}, "end": {"lat": 42.010469, "lon": -71.129496}, "engine": True, "display": "none", "side": "port"}, {"id": 8, "group": 2, "name": "", "start": {"lat": 1.6267552220703, "lon": -49.912141628906}, "end": {"lat": 14.74079, "lon": -17.529798}, "engine": True, "display": "none", "side": "stbd"}, {"id": 1, "group": 3, "name": "Equator", "start": {"lat": 0.0, "lon": -51.07755}, "end": {"lat": 0.0, "lon": 9.3477}, "engine": True, "display": "gate", "side": "stbd"}, {"id": 2, "group": 4, "name": "Cape Agulhas", "start": {"lat": -34.831021, "lon": 20.012}, "end": {"lat": -70.858818, "lon": 20.012}, "engine": True, "display": "gate", "side": "port"}, {"id": 3, "group": 5, "name": "Cape Leeuwin", "start": {"lat": -34.375782, "lon": 115.13656}, "end": {"lat": -66.480459, "lon": 115.13656}, "engine": True, "display": "gate", "side": "port"}, {"id": 12, "group": 6, "name": "", "start": {"lat": -71.281641, "lon": 170.25374}, "end": {"lat": 60.572858, "lon": 170.77631}, "engine": True, "display": "none", "side": "stbd"}, {"id": 13, "group": 7, "name": "", "start": {"lat": -72.727444, "lon": -103.26151}, "end": {"lat": 18.155054378906, "lon": -102.90586658203}, "engine": True, "display": "none", "side": "stbd"}, {"id": 4, "group": 8, "name": "Cabo de Hornos", "start": {"lat": -66.949922375, "lon": -67.230617904297}, "end": {"lat": -55.958717380859, "lon": -67.279713058105}, "engine": True, "display": "gate", "side": "stbd"}, {"id": 5, "group": 9, "name": "", "start": {"lat": -7.2767573167112, "lon": -34.798641996658}, "end": {"lat": -16.968107328125, "lon": 11.759867884277}, "engine": True, "display": "none", "side": "port"}, {"id": 11, "group": 10, "name": "Equator (way back)", "start": {"lat": 0.0, "lon": -51.077547}, "end": {"lat": 0.00020439680231732, "lon": 9.3501330639535}, "engine": True, "display": "none", "side": "port"}, {"id": 9, "group": 11, "name": "", "start": {"lat": 14.746941518555, "lon": -17.529038116455}, "end": {"lat": 35.300301, "lon": -75.9036}, "engine": True, "display": "none", "side": "stbd"}, {"id": 10, "group": 12, "name": "", "start": {"lat": 43.047206, "lon": -9.29984}, "end": {"lat": 66.353329, "lon": -37.24498}, "engine": True, "display": "none", "side": "stbd"}, {"id": 6, "group": 13, "name": "Arrival", "start": {"lat": 49.960499, "lon": -5.1845490000001}, "end": {"lat": 48.483425, "lon": -5.100535}, "engine": True, "display": "gate", "side": "port"}], "ice_limits": {"north": [], "south": [{"lat": -90.0, "lon": -180.0}, {"lat": -90.0, "lon": -90.0}, {"lat": -90.0, "lon": 0.0}, {"lat": -90.0, "lon": 90.0}, {"lat": -90.0, "lon": 180.0}], "maxLat": 90.0, "minLat": -90.0}, "defaultMapPreset": "satellite", "mapPresets": ["default", "satellite", "vro1", "old", "imray", "navionics"], "race": {"name": "Jules Verne Trophy", "type": "record", "realRaceTag": None}, "boat": {"name": "Ultim.", "label": "Ultim Crew", "polar_id": 9, "assetBundle": "multi", "stats": {"downwindSails": 600.0, "airDraught": 37.0, "upwindSails": 450.0, "length": 32.0, "weight": 15500.0, "draught": 4.5, "width": 23.0}, "type": "ultime_crew", "defaultSkin": "ultime_crew_VR_grey"}, "syncAWS": "Yes", "specialIcons": None, "vsrLevel": 1, "hasCode": True, "sponsorLogo": None, "sponsorURL": None}
+
+
+
+{"_id": {"race_id": 570, "num": 1}, 
+"lastUpdate": 1671444397371,
+"name": "Rolex Sydney Hobart Yacht Race",
+"displayOrder": 2, "priceLevel": 4,
+"freeCredits": 1200, 
+"optionPrices": {"reach": 1020, "light": 900, "hull": 420, "heavy": 720, "skin": 750, "radio": 180, "foil": 1320, "winch": 600},
+"pilotBoatCredits": 600, "status": "opened", "estimatedTime": 3, "estimatedLength": 650, "schedule": "validated",
+"open": {"date": 1671192004712}, "close": {"date": 1672941600000}, 
+"start": {"lat": -33.8346, "lon": 151.297, "name": "Sydney",   "date": 1672020000000, "heading": 163, "countryCode": "AUS", "countryFlag": "AU"}, 
+"end": {"lat": -42.98, "lon": 147.337, "name": "Hobart", "date": 1672682400000, "radius": 5, "countryCode": "AUS", "countryFlag": "AU"}, 
+"course": [{"lat": -33.8346, "lon": 151.297}, {"lat": -41.2648, "lon": 154.057}, {"lat": -43.2771, "lon": 148.07}, {"lat": -43.3283, "lon": 147.895}, {"lat": -43.2898, "lon": 147.746}, {"lat": -43.2476, "lon": 147.604}, {"lat": -43.05, "lon": 147.398}], 
+"checkpoints": [{"id": 1, "group": 1, "name": "", "start": {"lat": -43.239523, "lon": 148.00372}, "end": {"lat": -71.359287, "lon": 170.24855}, "engine": True, "display": "buoy", "side": "stbd"}], 
+"ice_limits": {"north": [], "south": [{"lat": -90.0, "lon": -180.0}, {"lat": -90.0, "lon": -90.0}, {"lat": -90.0, "lon": 0.0}, {"lat": -90.0, "lon": 90.0}, {"lat": -90.0, "lon": 180.0}], "maxLat": 90.0, "minLat": -90.0},
+"defaultMapPreset": "satellite", "mapPresets": ["default", "satellite", "vro1", "old", "imray", "navionics"],
+"race": {"name": "Rolex Sydney Hobart Yacht Race", "type": "leg", "realRaceTag": None},
+"boat": {"name": "Offshore Racer", "label": "Offshore Racer", "polar_id": 18, "assetBundle": "offshoreracer", "stats": {"upwindSails": 68.0, "weight": 3050.0, "downwindSails": 123.0, "width": 3.43, "airDraught": 15.55, "length": 10.11, "draught": 2.15}, 
+"type": "offshoreracer", "defaultSkin": "offshoreracer_VR_grey"}, 
+"syncAWS": "Yes", 
+"specialIcons": {"raceLogo": True, "raceLogoLink": "https://www.rolexsydneyhobart.com/"}, 
+"vsrLevel": 2, "hasCode": None, "sponsorLogo": None,
+ "sponsorURL": None}{"_id": {"race_id": 572, "num": 1}, 
+ "lastUpdate": 1670244418637, "name": "Christmas Race", "displayOrder": 3, "priceLevel": 3, "freeCredits": 1600,
+  "optionPrices": {"skin": 1000, "light": 1200, "hull": 560, "foil": 1760, "winch": 800, "heavy": 960, "reach": 1360, "radio": 240}, 
+  "pilotBoatCredits": 800, "status": "opened", "estimatedTime": 9, "estimatedLength": 3200, "schedule": "validated", 
+  "open": {"date": 1670587204462}, "close": {"date": 1672959600000}, "start": {"lat": -10.50899, "lon": 105.7038, "name": "Christmas Island", "date": 1671559200000, "heading": 122, "countryCode": "AUS", "countryFlag": "AU"}, "end": {"lat": -21.49608, "lon": 149.8927, "name": "Noel Island", "date": 1672786800000, "radius": 1, "countryCode": "AUS", "countryFlag": "AU"}, "course": [{"lat": -10.509, "lon": 105.704}, {"lat": -16.5072, "lon": 115.351}, {"lat": -12.4883, "lon": 123.283}, {"lat": -6.90036, "lon": 134.166}, {"lat": -10.0964, "lon": 142.839}, {"lat": -14.0933, "lon": 153.341}, {"lat": -21.481, "lon": 149.9}], "checkpoints": [{"id": 1, "group": 1, "name": "Cape York Gate", "start": {"lat": -10.689177987847, "lon": 142.53282086231}, "end": {"lat": -9.3230967500538, "lon": 142.57142845362}, "engine": True, "display": "gate", "side": "stbd"}], "ice_limits": {"north": [], "south": [{"lat": -90.0, "lon": -180.0}, {"lat": -90.0, "lon": -90.0}, {"lat": -90.0, "lon": 0.0}, {"lat": -90.0, "lon": 90.0}, {"lat": -90.0, "lon": 180.0}], "maxLat": 90.0, "minLat": -90.0}, "defaultMapPreset": "default", "mapPresets": ["default", "satellite", "vro1", "old", "imray", "navionics"], "race": {"name": "Christmas Race", "type": "leg", "realRaceTag": None}, "boat": {"name": "Ultim.", "label": "Ultim Crew", "polar_id": 9, "assetBundle": "multi", "stats": {"length": 32.0, "width": 23.0, "upwindSails": 450.0, "airDraught": 37.0, "draught": 4.5, "weight": 15500.0, "downwindSails": 600.0}, "type": "ultime_crew", "defaultSkin": "ultime_crew_christmas"}, "syncAWS": "Yes", "specialIcons": None, "vsrLevel": 3, "hasCode": True, "sponsorLogo": None, "sponsorURL": None}
+
+
+{"_id": {"race_id": 572, "num": 1}, "lastUpdate": 1670244418637, "name": "Christmas Race", "displayOrder": 3, "priceLevel": 3, "freeCredits": 1600, "optionPrices": {"skin": 1000, "light": 1200, "hull": 560, "foil": 1760, "winch": 800, "heavy": 960, "reach": 1360, "radio": 240}, "pilotBoatCredits": 800, "status": "opened", "estimatedTime": 9, "estimatedLength": 3200, "schedule": "validated", "open": {"date": 1670587204462}, "close": {"date": 1672959600000}, "start": {"lat": -10.50899, "lon": 105.7038, "name": "Christmas Island", "date": 1671559200000, "heading": 122, "countryCode": "AUS", "countryFlag": "AU"}, "end": {"lat": -21.49608, "lon": 149.8927, "name": "Noel Island", "date": 1672786800000, "radius": 1, "countryCode": "AUS", "countryFlag": "AU"}, "course": [{"lat": -10.509, "lon": 105.704}, {"lat": -16.5072, "lon": 115.351}, {"lat": -12.4883, "lon": 123.283}, {"lat": -6.90036, "lon": 134.166}, {"lat": -10.0964, "lon": 142.839}, {"lat": -14.0933, "lon": 153.341}, {"lat": -21.481, "lon": 149.9}], "checkpoints": [{"id": 1, "group": 1, "name": "Cape York Gate", "start": {"lat": -10.689177987847, "lon": 142.53282086231}, "end": {"lat": -9.3230967500538, "lon": 142.57142845362}, "engine": True, "display": "gate", "side": "stbd"}], "ice_limits": {"north": [], "south": [{"lat": -90.0, "lon": -180.0}, {"lat": -90.0, "lon": -90.0}, {"lat": -90.0, "lon": 0.0}, {"lat": -90.0, "lon": 90.0}, {"lat": -90.0, "lon": 180.0}], "maxLat": 90.0, "minLat": -90.0}, "defaultMapPreset": "default", "mapPresets": ["default", "satellite", "vro1", "old", "imray", "navionics"], "race": {"name": "Christmas Race", "type": "leg", "realRaceTag": None}, "boat": {"name": "Ultim.", "label": "Ultim Crew", "polar_id": 9, "assetBundle": "multi", "stats": {"length": 32.0, "width": 23.0, "upwindSails": 450.0, "airDraught": 37.0, "draught": 4.5, "weight": 15500.0, "downwindSails": 600.0}, "type": "ultime_crew", "defaultSkin": "ultime_crew_christmas"}, "syncAWS": "Yes", "specialIcons": None, "vsrLevel": 3, "hasCode": True, "sponsorLogo": None, "sponsorURL": None}
+
+
+
+
+
+{"raceId":575,"legNum":1,
+"legName":"RORC Transatlantic Race","hasCode":true,"estimatedTime":17,"estimatedLength":3000,"status":"opened", 
+"startDate":1673182800000,
+
+"start":{"date":1673182800000,"heading":286,"lat":28.82139,"lon":-13.82096,"name":"Lanzarote","countryCode":"ESP","countryFlag":"ES"},
+"end":{"date":1674864000000,"lat":12.0908,"lon":-61.7675,"name":"Grenada","radius":5,"countryCode":"GRN","countryFlag":"GD"}
+
+,"raceName":"RORC Transatlantic Race","raceType":"leg","fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c",
+"boat":{"assetBundle":"multi50","defaultSkin":"multi50_VR_grey","idx":7,"label":"Ocean Fifty","name":"Multi 50","polar_id":11,
+"stats":{"length":15.24,"width":15.24,"airDraught":23.77,"draught":3.5,"weight":4200,"upwindSails":180,"downwindSails":258},
+"type":"multi50","lastUpdateTs":1657039205},"vsrRank":2,"priceLevel":3,"freeCredits":1600,"adStartCredits":240,"pilotBoatCredits":800,"lastUpdate":1670267149076,
+"defaultMapPreset":"satellite","mapPresets":["default","satellite","vro1","old","imray","navionics"],"skinDiscount":1000,"specialIcons":
+{"raceLogo":true,"raceLogoLink":"http://rorctransatlantic.rorc.org/"},"syncAWS":"Yes","freeWindHours":24,"unlimitedCards":true,"loadingScreenLogo":null,"season":"winter","state":"none",
+"nbTotalSkippers":9919,"boatsAtSea":9919},
+
+{"raceId":512,"legNum":6,"legName":"Ushuaia - Recife","hasCode":true,"estimatedTime":20,"estimatedLength":3000,"status":"opened","startDate":1673200800000,
+"start":{"date":1673200800000,"heading":110,"lat":-55.11486,"lon":-66.35974,"name":"Ushuaia","countryCode":"ARG","countryFlag":"AR"},
+"end":{"date":1674842400000,"lat":-8.079522,"lon":-34.88773,"name":"Recife","radius":5,"countryCode":"BRA","countryFlag":"BR"},
+"raceName":"Globe 40","raceType":"leg","fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c",
+"boat":{"assetBundle":"class40","defaultSkin":"class40_VR_grey","idx":4,
+"label":"Class 40","name":"Class 40","polar_id":3,"stats":{"length":12.19,"width":4.5,"airDraught":19,"draught":3,"weight":4500,"upwindSails":115,"downwindSails":115},
+"type":"class40","lastUpdateTs":1657037626},"vsrRank":2,"priceLevel":3,"freeCredits":1600,"adStartCredits":240,"pilotBoatCredits":800,"lastUpdate":1671444194205,"defaultMapPreset":"default",
+"mapPresets":["default","satellite","vro1","old","imray","navionics"],"skinDiscount":1000,"syncAWS":"Yes","freeWindHours":24,"unlimitedCards":true,"loadingScreenLogo":null,"season":"winter","state":"none",
+"nbTotalSkippers":9719,"boatsAtSea":9719},
+
+{"raceId":571,"legNum":1,"legName":"Leg Zero","hasCode":true,"estimatedTime":11,"estimatedLength":3542,
+"status":"started","startDate":1672250400000,
+"start":{"date":1672250400000,"heading":120,"lat":50.75721,"lon":-1.112389,
+"name":"Portsmouth","countryCode":"GBR","countryFlag":"GB"},
+"end":{"date":1673308800000,"lat":38.3245,"lon":-0.4999015,
+"name":"Alicante","radius":5,"countryCode":"ESP","countryFlag":"ES"},"raceName":"The Leg Zero","raceType":
+
+"leg","fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c","boat":{"assetBundle":"vendeeglobe","defaultSkin":"imoca_theoceanrace1",
+"idx":4,"label":"Imoca","name":"Imoca","polar_id":4,"stats":{"length":18.28,"width":5.85,"airDraught":29,"draught":4.5,"weight":8000,"upwindSails":300,"downwindSails":600},"type":"imoca",
+"lastUpdateTs":1671457110},"vsrRank":1,"priceLevel":3,"freeCredits":1600,"adStartCredits":240,"pilotBoatCredits":800,"lastUpdate":1671449095017,"defaultMapPreset":"default",
+"mapPresets":["default","satellite","vro1","old","imray","navionics"],"skinDiscount":1000,"specialIcons":{"raceLogo":true,"raceLogoLink":"http://click.virtualregatta.com/?li=5167"},
+"organizer":"volvo","syncAWS":"Yes","freeWindHours":24,"unlimitedCards":true,"partner":{"name":"The Ocean Race"},"loadingScreenLogo":"https://static.virtualregatta.com/offshore/sponsor/loadinglogoTOR.png",
+"season":"winter","state":"none","nbTotalSkippers":38596,"boatsAtSea":38596},
+
+{"raceId":567,"legNum":1,"legName":"Jules Verne Trophy","hasCode":true,"estimatedTime":41,"estimatedLength":21800,"status":"started","startDate":1667926800000,
+"start":{"date":1667926800000,"heading":246,"lat":48.50317,"lon":-5.103307,"name":"Ouessant","countryCode":"FRA","countryFlag":"FR"},
+"end":{"date":1679180340000,"lat":48.3753,"lon":-4.46093,"name":"Brest","radius":0,"countryCode":"FRA","countryFlag":"FR"},
+"raceName":"Jules Verne Trophy","raceType":"record","gates":{"3":"Equator","4":"Cape Agulhas","5":"Cape Leeuwin","8":"Cabo de Hornos","10":"Equator (way back)"},
+"fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c","boat":{"assetBundle":"multi","defaultSkin":"ultime_crew_VR_grey",
+"idx":8,"label":"Ultim Crew","name":"Ultim.","polar_id":9,"stats":{"length":32,"width":23,"airDraught":37,"draught":4.5,"weight":15500,"upwindSails":450,"downwindSails":600},
+"type":"ultime_crew","lastUpdateTs":1657039721},"vsrRank":1,"priceLevel":1,"freeCredits":2400,"adStartCredits":360,"lastUpdate":1667399831205,"defaultMapPreset":"satellite",
+"mapPresets":["default","satellite","vro1","old","imray","navionics"],"skinDiscount":1500,"syncAWS":"Yes","freeWindHours":24,"unlimitedCards":true,"restartPrice":1200,
+"loadingScreenLogo":null,"season":"winter","state":"racing","branding":{"id":"VR"},"problem":"aground","record":{"attemptCounter":2,"lastRankingGate":3,
+"lastRankingGateTime":1060886476,"lastRankingGateName":"Equator"},"rank":38394,"distanceFromStart":3728.66822,"distanceToEnd":18658.34191,"stamina":100,
+"fullPack":{"code":"PackFull1","tiers":27,"price":29.99,"discount":40,"productId":"com.virtualregatta.rate27.full","fullPrice":50},"nbTotalSkippers":60406,"boatsAtSea":48636}],
+"panicMode":false,"videoData":{"routage":[{"itag":18,"url":"https://rr1---sn-q0c7rn7d.googlevideo.com/videoplayback?expire=1673011756&ei=zM23Y6WRIdaumLAP07iVwAM&ip=34.249.179.181&id=o-AAvVkHPUzQKtpsqrflFVvSHXuZ4pOlUmfKhdG085SJND&itag=18&source=youtube&requiressl=yes&mh=6I&mm=31%2C26&mn=sn-q0c7rn7d%2Csn-5hne6nzd&ms=au%2Conr&mv=u&mvi=1&pl=23&vprv=1&mime=video%2Fmp4&ns=esPyvDQmR8lBh5usIBPxDVwK&cnr=14&ratebypass=yes&dur=11.563&lmt=1645008613242030&mt=1672989674&fvip=3&fexp=24007246&c=WEB&txp=6218224&n=yUGcb8A7aBaE5FisA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhALPXfSKhKkgXUW6_v76LF671LArbDZH5nEojFhf1wXwtAiBof4rN6v86FeEbEGRSfyMJ3ivdExrxjcOtgNVEsMSQtw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRAIgc_bK4jwS3pQR6JuYlrWdj6ld-bAAmE7V8K4M5z3_b7oCIFkA31F0F-Wsrula0pDXntczBSR3Xg2helbkVx6ohyCZ","mimeType":"video/mp4; codecs=\\"avc1.42001E, mp4a.40.2\\"","bitrate":675740,"width":640,"height":360,"lastModified":"1645008613242030","quality":"medium","fps":24,"qualityLabel":"360p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_LOW","approxDurationMs":"11563","audioSampleRate":"44100","audioChannels":2},{"itag":22,"url":"https://rr1---sn-q0c7rn7d.googlevideo.com/videoplayback?expire=1673011756&ei=zM23Y6WRIdaumLAP07iVwAM&ip=34.249.179.181&id=o-AAvVkHPUzQKtpsqrflFVvSHXuZ4pOlUmfKhdG085SJND&itag=22&source=youtube&requiressl=yes&mh=6I&mm=31%2C26&mn=sn-q0c7rn7d%2Csn-5hne6nzd&ms=au%2Conr&mv=u&mvi=1&pl=23&vprv=1&mime=video%2Fmp4&ns=esPyvDQmR8lBh5usIBPxDVwK&ratebypass=yes&dur=11.563&lmt=1634051653815860&mt=1672989674&fvip=3&fexp=24007246&c=WEB&txp=6216222&n=yUGcb8A7aBaE5FisA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJCi7ykhJfVi-9cQbbtMEHJ8INDrnPpa0TNCrWAP2UeJAiEAlg5SMI7xfSg3GT2TBZOmS0kZEdonvxL8q25sQfOs8Rc%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRAIgc_bK4jwS3pQR6JuYlrWdj6ld-bAAmE7V8K4M5z3_b7oCIFkA31F0F-Wsrula0pDXntczBSR3Xg2helbkVx6ohyCZ","mimeType":"video/mp4; codecs=\\"avc1.64001F, mp4a.40.2\\"","bitrate":2291770,"width":1280,"height":720,"lastModified":"1634051653815860","quality":"hd720","fps":24,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"11563","audioSampleRate":"44100","audioChannels":2}]},"timeBfrPrerolls":86400000,"nbrConxAfterPrerolls":"2","cappingPrerolls":"10","nbrConxBfrPrerolls":"2","cappingPerCourse":"10","cappingGlobal":"100","nbrConxBtwnAds":"0","timeBtwnAds":900000,"timeBfrFirstAd":86400000,"minAccessBfrFirstAd":"5","extraActions":{"withAds":true,"isInterstitial":true,"autoSails":{"duration":4,"price":50,"max":86,"chain":[{"duration":4,"interstitial":true,"credits":50},{"duration":6,"interstitial":true,"credits":50},{"duration":8,"interstitial":true,"credits":50},{"duration":12,"credits":50},{"duration":24,"credits":100}]},"waypoint":{"max":9,"price":50},"prog":{"max":9,"price":50},"radar":{"price":50}},"gsFeatures":{"social_news":true,"social_follow":true,"social_listPlayers":true,"social_userCard":true,"social_userInfos":true,"social_converse":true,"social_invite":true,"social_palmares":true,"social_crm":true,"shopActive":false,"identity_check":false,"team":true,"fleet":false,"fleet_refresh":false,"lootboxes":false,"prevent_guest_purchases":true,"atWillDisplayNameChange":true,"stealth_mode":false,"log_user_actions":true,"count_enterLeg":false,"email_notifs":true,"dev2dev_notifs":false,"firebase_notifs":true,"socialAutoMessages":false,"new_vsr":true,"customizable_map":true,"winds_from_gs":false,"webgl_subscriptions":true,"topRankingCallback":true,"firstOfFleetCallback":true,"mapInfo":true,"fullOptPermanentAutoSails":true,"userSearchEnabled":true,"userSearchFull":false,"boatStateDetailsInLegList":true,"clientWindCache":true},"awsFeatures":{"tracks":true,"legRanks":true,"fleet":true,"nearestFleet":true},"unityLogs":false,"routingPrice":0,"routing":true,"truePrivateExist":true,"newManeuversSlowdowns":true,"rc":"ok"},"@class":".LogEventResponse","requestId":"638085929604660000_2",
+  "traceId":"Root=1-63b7d730-36035f911f83c2e8294ccb8b;Parent=3d8f81952ffd19ec;Sampled=1"}"}
+
+<<< {"base64Encoded":false,"body":"{"scriptData":{"boatsAtSea":117432,"res":
+[{"raceId":573,"legNum":1,"legName":"ALICANTE - CABO VERDE","hasCode":true,"estimatedTime":7,"estimatedLength":1900,"status":"opened","startDate":1673795400000,
+"start":{"date":1673795400000,"heading":151,"lat":38.342,"lon":-0.4037192,"name":"Alicante","countryCode":"ESP","countryFlag":"ES"},
+
+"end":{"date":1674514800000,"lat":38.342,"lon":-0.4037192,"name":"Mindelo","radius":5,"countryCode":"CPV","countryFlag":"CV"},
+
+"raceName":"The Ocean Race","raceType":"leg","fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c",
+"boat":{"assetBundle":"vendeeglobe","defaultSkin":"imoca_theoceanrace1","idx":4,"label":"Imoca","name":"Imoca","polar_id":4,
+"stats":{"length":18.28,"width":5.85,"airDraught":29,"draught":4.5,"weight":8000,"upwindSails":300,"downwindSails":600},
+"type":"imoca","lastUpdateTs":1671457110},"vsrRank":2,"priceLevel":3,"freeCredits":1600,"adStartCredits":240,"pilotBoatCredits":800,
+"lastUpdate":1670066114373,"defaultMapPreset":"default","mapPresets":["default","satellite","vro1","old","imray","navionics"],
+"skinDiscount":1000,"specialIcons":{"raceLogo":true,"raceLogoLink":"http://click.virtualregatta.com/?li=5167"},"organizer":"volvo",
+"syncAWS":"Yes","freeWindHours":24,"unlimitedCards":true,"partner":{"name":"The Ocean Race"},"loadingScreenLogo":null,
+"season":"winter","state":"none","nbTotalSkippers":5914,"boatsAtSea":5914},
+
+{"raceId":574,"legNum":1,"legName":
+"VO65 Sprint Cup #1","hasCode":true,"estimatedTime":7,"estimatedLength":1900,"status":"opened","startDate":1673791500000,"start":
+{"date":1673791500000,"heading":151,"lat":38.342,"lon":-0.4037192,"name":"Alicante","countryCode":"ESP","countryFlag":"ES"},
+"end":{"date":1674514800000,"lat":16.88381,"lon":-24.99593,"name":"Mindelo","radius":5,"countryCode":"CPV","countryFlag":"CV"},
+"raceName":"V065 Sprint Cup","raceType":"leg","fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c",
+"boat":{"assetBundle":"vor65","defaultSkin":"volvo65_VR_grey","idx":15,"label":"Volvo 65","name":"Volvo 65","polar_id":7,"stats":{"length":20.37,"width":5.6,"draught":4.78,"weight":12500,"upwindSails":451,
+"downwindSails":578},"type":"vor65","lastUpdateTs":1657039981},"vsrRank":2,"priceLevel":3,"freeCredits":1600,"adStartCredits":240,"pilotBoatCredits":800,"lastUpdate":1670264958510,
+"defaultMapPreset":"default","mapPresets":["default","satellite","vro1","old","imray","navionics"],"skinDiscount":1000,"specialIcons":{"raceLogo":true,"raceLogoLink":"http://click.virtualregatta.com/?li=5167"},
+"organizer":"volvo","syncAWS":"Yes","freeWindHours":24,"unlimitedCards":true,"partner":{"name":"The Ocean Race"},"loadingScreenLogo":null,"season":"winter","state":"none","nbTotalSkippers":4621,"boatsAtSea":4621},
+
+
+
+
+{"raceId":575,"legNum":1,"legName":"RORC Transatlantic Race","hasCode":true,"estimatedTime":17,"estimatedLength":3000,"status":"opened","startDate":1673182800000,
+"start":{"date":1673182800000,"heading":286,"lat":28.82139,"lon":-13.82096,"name":"Lanzarote","countryCode":"ESP","countryFlag":"ES"},
+"end":{"date":1674864000000,"lat":12.0908,"lon":-61.7675,"name":"Grenada","radius":5,"countryCode":"GRN","countryFlag":"GD"},
+"raceName":"RORC Transatlantic Race","raceType":"leg","fullpackRessource":"https://static.virtualregatta.com/offshore/events/fullpack_standard3.png?c",
+"boat":{"assetBundle":"multi50","defaultSkin":"multi50_VR_grey","idx":7,"label":"Ocean Fifty","name":"Multi 50",
+"polar_id":11,"stats":{"length":15.24,"width":15.24,"airDraught":23.77,"draught":3.5,"weight":4200,"upwindSails":180,"downwindSails":258},
+"type":"multi50","lastUpdateTs":1657039205},"vsrRank":2,"priceLevel":3,"freeCredits":1600,"adStartCredits":240,"pilotBoatCredits":800,"lastUpdate":1670267149076,"defaultMapPreset":"satellite",
+"mapPresets":["default","satellite","vro1","old","imray","navionics"],"skinDiscount":1000,"specialIcons":{"raceLogo":true,"raceLogoLink":"http://rorctransatlantic.rorc.org/"},"syncAWS":"Yes\
