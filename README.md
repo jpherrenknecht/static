@@ -1,2 +1,2 @@
 # static
-Fichiers statiques
+Fichiers statiques poour vrouteur
